@@ -11,4 +11,7 @@ correlated gene module (CGM) share TF(s) in their cis-regulatory elements to par
 particular biological function. Finally, single-cell resolved experiments (scFOODIE) allow cell31 type-specific TF footprinting in heterogeneous brain tissues.
 
 
-![alt text](https://github.com/gaolong/foodie/blob/main/foodie_overview.JPG?raw=true)
+
+<p align="center">
+  <img src="https://github.com/gaolong/foodie/blob/main/foodie_overview.JPG" height="800" width="600">
+</p>
