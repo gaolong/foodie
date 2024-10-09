@@ -9,3 +9,6 @@ thousands of cells after in situ deamination yielded site-specific TF binding fr
 cooperativity among adjacent TFs. In a human lymphoblastoid cell line, we found that genes in a
 correlated gene module (CGM) share TF(s) in their cis-regulatory elements to participate a
 particular biological function. Finally, single-cell resolved experiments (scFOODIE) allow cell31 type-specific TF footprinting in heterogeneous brain tissues.
+
+
+![alt text](https://github.com/gaolong/foodie/blob/main/foodie_overview.JPG?raw=true)
