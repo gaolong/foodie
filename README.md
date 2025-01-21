@@ -8,7 +8,7 @@ resolution by footprinting with deaminase (FOODIE). Single-molecule sequencing r
 thousands of cells after in situ deamination yielded site-specific TF binding fractions and the
 cooperativity among adjacent TFs. In a human lymphoblastoid cell line, we found that genes in a
 correlated gene module (CGM) share TF(s) in their cis-regulatory elements to participate a
-particular biological function. Finally, single-cell resolved experiments (scFOODIE) allow cell31 type-specific TF footprinting in heterogeneous brain tissues.
+particular biological function. Finally, single-cell resolved experiments (scFOODIE) allow cell type-specific TF footprinting in heterogeneous brain tissues.
 
 
 
