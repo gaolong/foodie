@@ -18,5 +18,5 @@ particular biological function. Finally, single-cell resolved experiments (scFOO
 
 
 
-De novo footprints calling method used for DNase techinique.
+We adopted the de novo footprint calling method used for DNase techinique:
 https://noble.gs.washington.edu/proj/footprinting/
