@@ -15,3 +15,8 @@ particular biological function. Finally, single-cell resolved experiments (scFOO
 <p align="center">
   <img src="https://github.com/gaolong/foodie/blob/main/foodie_overview.JPG" height="800" width="600">
 </p>
+
+
+
+De novo footprints calling method used for DNase techinique.
+https://noble.gs.washington.edu/proj/footprinting/
